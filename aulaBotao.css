@@ -1,0 +1,7 @@
+.botao{
+    background-color: blue;
+    color: aliceblue;
+}
+.botao:hover{
+    background-color: green;
+}
